@@ -1,0 +1,10 @@
+-
+  name: 获取token
+  request:
+    method: get
+    url: https://api.weixin.qq.com/cgi-bin/token
+    data:
+      grant_type: client_credential
+      appid: wxa6a4bba2f6d77b05
+      secret: 98e2a38d704c38b6888218620b1f8ed4
+    validate: None

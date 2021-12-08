@@ -1,0 +1,83 @@
+{
+  "uid" : "366e044fdd6afb13",
+  "name" : "test_add_tag",
+  "fullName" : "testcase.test_api.TestAPI#test_add_tag",
+  "historyId" : "b014a85b208e462b1b49d88a1f3cd81c",
+  "time" : {
+    "start" : 1638934520720,
+    "stop" : 1638934520955,
+    "duration" : 235
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "yaml_clear",
+    "time" : {
+      "start" : 1638934520419,
+      "stop" : 1638934520419,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAPI"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-S5SCIT9"
+  }, {
+    "name" : "thread",
+    "value" : "17756-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "498642a5c1757029",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638934423375,
+        "stop" : 1638934423606,
+        "duration" : 231
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "366e044fdd6afb13.json",
+  "parameterValues" : [ ]
+}

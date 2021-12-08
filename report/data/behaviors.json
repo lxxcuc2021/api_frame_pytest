@@ -1,0 +1,39 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_get_token[caseinfo0]",
+    "uid" : "7a6a93118006194f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1638934520421,
+      "stop" : 1638934520715,
+      "duration" : 294
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "{'name': '获取token', 'request': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': 'wxa6a4bba2f6d77b05', 'secret': '98e2a38d704c38b6888218620b1f8ed4'}, 'validate': 'None'}}" ]
+  }, {
+    "name" : "test_add_tag",
+    "uid" : "366e044fdd6afb13",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1638934520720,
+      "stop" : 1638934520955,
+      "duration" : 235
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  } ]
+}
